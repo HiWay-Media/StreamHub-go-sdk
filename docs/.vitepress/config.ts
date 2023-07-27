@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-
+//
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: 'streamhub-go-sdk',
@@ -12,6 +12,7 @@ export default defineConfig({
     ],
     sidebar: [
       { text: 'Introduction', link: '/' },
+      { text: 'Getting started', link: '/getting-started' },
     ],
   },
 })
