@@ -11,7 +11,7 @@ StreamHub Go SDK is a powerful library developed by HiWay Media that enables sea
 
 - Integration Made Easy: The SDK abstracts the complexities of dealing with the StreamHub API, enabling quick and painless integration with your Go applications.
 
-##Installation
+## Installation
 
 To start using the StreamHub Go SDK, you need to have Go installed on your system. Use go get to add the package to your project:
 
